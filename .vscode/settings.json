@@ -1,0 +1,162 @@
+{
+    "better-comments.tags": [
+        {
+            "tag": "*",
+            "color": "#9e9e9e"
+        },
+        {
+            "tag": "⏳",
+            "color": "#c48c38",
+            "bold": true
+        },
+        {
+            "tag": "🎉",
+            "color": "#f1f900",
+            "bold": true
+        },
+        {
+            "tag": "🔥",
+            "color": "#FF4444",
+            "bold": true
+        },
+        {
+            "tag": "🏙️",
+            "color": "#3498DB",
+            "bold": true
+        },
+        {
+            "tag": "⚖️",
+            "color": "#9B59B6"
+        },
+        {
+            "tag": "🔐",
+            "color": "#8E44AD",
+            "bold": true
+        },
+        {
+            "tag": "⚡",
+            "color": "#e8813c"
+        },
+        {
+            "tag": "⚠️",
+            "color": "#F39C12",
+            "bold": true
+        },
+        {
+            "tag": "🎯",
+            "color": "#E67E22",
+            "bold": true
+        },
+        {
+            "tag": "📏",
+            "color": "#A0A0A0",
+            "bold": true
+        },
+        {
+            "tag": "👀",
+            "color": "#F1C40F"
+        },
+        {
+            "tag": "✅",
+            "color": "#2ECC71",
+            "bold": true
+        },
+        {
+            "tag": "💭",
+            "color": "#95A5A6",
+            "italic": true
+        },
+        {
+            "tag": "❔",
+            "color": "#A9A9A9",
+            "italic": true
+        },
+        {
+            "tag": "📌",
+            "color": "#e06059",
+            "italic": true
+        },
+        {
+            "tag": "🔎",
+            "color": "#59bae0"
+        },
+        {
+            "tag": "🤓",
+            "color": "#F39C12"
+        },
+        {
+            "tag": "🤔",
+            "color": "#F4D03F",
+            "bold": true
+        },
+        {
+            "tag": "🧪",
+            "color": "#2ECC71"
+        },
+        {
+            "tag": "🔁",
+            "color": "#5dade2",
+            "italic": true
+        },
+        {
+            "tag": "💡",
+            "color": "#f9d400",
+            "bold": true
+        },
+        {
+            "tag": "🔧",
+            "color": "#3498DB"
+        },
+        {
+            "tag": "🗑️",
+            "color": "#95A5A6",
+            "italic": true
+        },
+        {
+            "tag": "💾",
+            "color": "#B39DDB"
+        },
+        {
+            "tag": "🧩",
+            "color": "#FF8C00",
+            "bold": true
+        },
+        {
+            "tag": "🐛",
+            "color": "#28c9a1"
+        },
+        {
+            "tag": "📍",
+            "color": "#607D8B"
+        },
+        {
+            "tag": "📋",
+            "color": "#16A085",
+            "bold": true
+        },
+        {
+            "tag": "🌐",
+            "color": "#9B59B6",
+            "bold": true
+        },
+        {
+            "tag": "✍️",
+            "color": "#7e931d"
+        },
+        {
+            "tag": "📊",
+            "color": "#27AE60",
+            "bold": true
+        },
+        {
+            "tag": "✨",
+            "color": "#FFD700",
+            "bold": true
+        },
+        {
+            "tag": "📝",
+            "color": "#7F8C8D",
+            "italic": true
+        }
+    ]
+}

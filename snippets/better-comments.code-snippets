@@ -1,0 +1,206 @@
+{
+  // =========================================================
+  //  TRABAJO PENDIENTE
+  // =========================================================
+  "TODO": {
+    "prefix": "todo",
+    "body": "⏳ TODO: $0",
+    "description": "Tarea pendiente concreta"
+  },
+  "DONE": {
+    "prefix": "done",
+    "body": "🎉 DONE: $0",
+    "description": "Tarea completada"
+  },
+  "FIXME": {
+    "prefix": "fix",
+    "body": "🔥 FIXME: $0",
+    "description": "Problema importante que debe corregirse pronto"
+  },
+
+  // =========================================================
+  //  ARQUITECTURA / DISEÑO
+  // =========================================================
+  "ARCH": {
+    "prefix": "arch",
+    "body": "🏙️ ARCH: $0",
+    "description": "Decisión o cambio de arquitectura"
+  },
+  "TRADEOFF": {
+    "prefix": "trade",
+    "body": "⚖️ TRADEOFF: $0",
+    "description": "Decisión con beneficio y costo aceptado"
+  },
+
+  // =========================================================
+  //  CALIDAD / RIESGO
+  // =========================================================
+  "SECURITY": {
+    "prefix": "sec",
+    "body": "🔐 SECURITY: $0",
+    "description": "Riesgo, control o mejora de seguridad"
+  },
+  "PERF": {
+    "prefix": "perf",
+    "body": "⚡ PERF: $0",
+    "description": "Rendimiento, latencia o consumo"
+  },
+  "WARNING": {
+    "prefix": "warn",
+    "body": "⚠️ WARNING: $0",
+    "description": "Alerta técnica relevante"
+  },
+
+  // =========================================================
+  //  NEGOCIO Y COLABORACIÓN
+  // =========================================================
+  "DOMAIN": {
+    "prefix": "domain",
+    "body": "🎯 DOMAIN: $0",
+    "description": "Regla o criterio del dominio del negocio"
+  },
+  "RULE": {
+    "prefix": "rule",
+    "body": "📏 RULE: $0",
+    "description": "Norma técnica/funcional que debe respetarse"
+  },
+  "REVIEW": {
+    "prefix": "review",
+    "body": "👀 REVIEW: $0",
+    "description": "Punto para revisar con otra persona"
+  },
+  "TEST": {
+    "prefix": "test",
+    "body": "✅ TEST: $0",
+    "description": "Validación o prueba necesaria/completada"
+  },
+
+  // =========================================================
+  //  PROCESO DE APRENDIZAJE Y ANÁLISIS
+  // =========================================================
+  "THINK": {
+    "prefix": "think",
+    "body": "💭 THINK: $0",
+    "description": "Razonamiento abierto o reflexión larga"
+  },
+  "QUESTION": {
+    "prefix": "q",
+    "body": "❔ QUESTION: $0",
+    "description": "Duda explícita"
+  },
+  "ASSUMPTION": {
+    "prefix": "assume",
+    "body": "📌 ASSUMPTION: $0",
+    "description": "Supuesto temporal de trabajo"
+  },
+  "INVESTIGATE": {
+    "prefix": "investigate",
+    "body": "🔎 INVESTIGATE: $0",
+    "description": "Requiere investigación adicional"
+  },
+  "LEARN": {
+    "prefix": "learn",
+    "body": "🤓 LEARN: $0",
+    "description": "Aprendizaje o hallazgo útil"
+  },
+  "WHY": {
+    "prefix": "why",
+    "body": "🤔 WHY: $0",
+    "description": "Motivo concreto de una decisión"
+  },
+  "EXPERIMENT": {
+    "prefix": "experiment",
+    "body": "🧪 EXPERIMENT: $0",
+    "description": "Prueba controlada de una idea"
+  },
+  "ALTERNATIVE": {
+    "prefix": "alt",
+    "body": "🔁 ALTERNATIVE: $0",
+    "description": "Variación de una solución"
+  },
+  "INSIGHT": {
+    "prefix": "insight",
+    "body": "💡 INSIGHT: $0",
+    "description": "Conclusión valiosa"
+  },
+
+  // =========================================================
+  //  MANTENIMIENTO Y DEUDA TÉCNICA
+  // =========================================================
+  "REFACTOR": {
+    "prefix": "refactor",
+    "body": "🔧 REFACTOR: $0",
+    "description": "Mejora de estructura sin cambiar comportamiento"
+  },
+  "DEPRECATED": {
+    "prefix": "deprecated",
+    "body": "🗑️ DEPRECATED: $0",
+    "description": "Elemento obsoleto en salida"
+  },
+  "CHANGELOG": {
+    "prefix": "changelog",
+    "body": "💾 CHANGELOG: $0",
+    "description": "Cambio relevante que conviene registrar"
+  },
+  "HACK": {
+    "prefix": "hack",
+    "body": "🧩 HACK: $0",
+    "description": "Solución temporal o no ortodoxa que requiere revisión"
+  },
+
+  // =========================================================
+  //  BUGS / DEBUGGING
+  // =========================================================
+  "DEBUG": {
+    "prefix": "debug",
+    "body": "🐛 DEBUG: $0",
+    "description": "Seguimiento de bug en diagnóstico"
+  },
+  "LOG": {
+    "prefix": "log",
+    "body": "📍 LOG: $0",
+    "description": "Simula la salida en consola (console.log / print)"
+  },
+
+  // =========================================================
+  //  ESTÁNDARES / CUMPLIMIENTO
+  // =========================================================
+  "A11Y": {
+    "prefix": "a11y",
+    "body": "📋 A11Y: $0",
+    "description": "Accesibilidad"
+  },
+  "I18N": {
+    "prefix": "i18n",
+    "body": "🌐 I18N: $0",
+    "description": "Internacionalización/localización"
+  },
+  "DOC": {
+    "prefix": "doc",
+    "body": "✍️ DOC: $0",
+    "description": "Deuda o mejora de documentación"
+  },
+
+  // =========================================================
+  //  NEGOCIO / OBSERVABILIDAD
+  // =========================================================
+  "METRIC": {
+    "prefix": "metric",
+    "body": "📊 METRIC: $0",
+    "description": "Medición, KPI o telemetría"
+  },
+
+  // =========================================================
+  //  IDEAS Y NOTAS GENERALES
+  // =========================================================
+  "IDEA": {
+    "prefix": "idea",
+    "body": "✨ IDEA: $0",
+    "description": "Propuesta o concepto a explorar"
+  },
+  "NOTE": {
+    "prefix": "note",
+    "body": "📝 NOTE: $0",
+    "description": "Advertencia de fragilidad o nota importante de contexto"
+  }
+}
